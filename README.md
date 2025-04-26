@@ -1,11 +1,14 @@
 <p align="center">
+  Hi 👋 My name is Eya Nehdi
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/f8cc1b68-73c9-4b6d-b0bc-eb1e928f4af0" alt="giphy">
 </p>
 
 
 
 
-Hi 👋 My name is Eya Nehdi
+
 ==========================
 
 Software engineering student specialized in web technologies at Esprit school of engineering.
