@@ -1,5 +1,5 @@
 <p align="center">
-#  Hi 👋 My name is Eya Nehdi
+<h1>Hi 👋 My name is Eya Nehdi</h1>  
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8cc1b68-73c9-4b6d-b0bc-eb1e928f4af0" alt="giphy">
