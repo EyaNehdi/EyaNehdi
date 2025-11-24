@@ -31,6 +31,7 @@ Software engineering student specialized in web technologies at Esprit school of
 
 
 ### 🏆 Awards
+Massai 2025 – Best Poster Award in the Education Field
 ![download](https://github.com/user-attachments/assets/a6c00fa6-e5e4-402c-b681-93623c643dd1)
 
 
