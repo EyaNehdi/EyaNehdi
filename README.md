@@ -30,8 +30,9 @@ Software engineering student specialized in web technologies at Esprit school of
 ![](https://nirzak-streak-stats.vercel.app/?user=EyaNehdi&theme=dark&hide_border=false)<br/>
 
 
-### 🔝 Top Repository
-<div width="100%" align="center"><a href="https://github.com/EyaNehdi/E-Learning_IntegratedLMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EyaNehdi&repo=E-Learning_IntegratedLMS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🏆 Awards
+![download](https://github.com/user-attachments/assets/a6c00fa6-e5e4-402c-b681-93623c643dd1)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EyaNehdi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
